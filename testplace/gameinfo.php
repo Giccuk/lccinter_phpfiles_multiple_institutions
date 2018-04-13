@@ -1,0 +1,5 @@
+<?php
+$gametotal=10;
+
+?>
+
